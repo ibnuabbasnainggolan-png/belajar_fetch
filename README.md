@@ -1,1 +1,2 @@
 # belajar_fetch
+GGS
